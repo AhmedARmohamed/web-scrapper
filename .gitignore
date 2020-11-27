@@ -1,0 +1,6 @@
+# Created by .ignore support plugin (hsz.mobi)
+.gitignore
+Makefile
+README.md
+go.sum
+main.go
